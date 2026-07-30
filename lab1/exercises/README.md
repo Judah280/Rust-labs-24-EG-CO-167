@@ -14,4 +14,10 @@ Exercises & Implementation Details
   RESULTS
   <img width="575" height="435" alt="Screenshot 2026-07-30 213344" src="https://github.com/user-attachments/assets/216ae2a1-aeb9-44fb-8f89-92c176c7ead6" />
 
+  RESULTS
+  <img width="632" height="601" alt="Screenshot 2026-07-30 213646" src="https://github.com/user-attachments/assets/b3ed2648-84a4-4ac7-ac88-cc8491015211" />
+<img width="684" height="621" alt="Screenshot 2026-07-30 213631" src="https://github.com/user-attachments/assets/01c80ee8-b81e-4168-81e3-7b9812ffc674" />
+<img width="666" height="662" alt="Screenshot 2026-07-30 213619" src="https://github.com/user-attachments/assets/60ae20ce-12e9-4ce5-b3b3-ffd40426d8a6" />
+
+
 

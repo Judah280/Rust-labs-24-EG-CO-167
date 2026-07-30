@@ -11,3 +11,7 @@ Exercises & Implementation Details
 * **Exercise C — Temperature Converter:** 
   A practical exercise converting temperatures between Celsius and Fahrenheit using basic arithmetic and typed functions.
 
+  RESULTS
+  <img width="575" height="435" alt="Screenshot 2026-07-30 213344" src="https://github.com/user-attachments/assets/216ae2a1-aeb9-44fb-8f89-92c176c7ead6" />
+
+
